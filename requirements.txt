@@ -1,0 +1,6 @@
+keyboard
+pynput
+colorama
+mouse
+requests
+pynput
